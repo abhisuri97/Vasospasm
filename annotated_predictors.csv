@@ -1,0 +1,228 @@
+﻿HSH_ADMSN_ID,physiologic,Non-physiologic,map
+"(('ORD_NUM_VALUE_CORRECTED', 'min'), 'ALBUMIN, SERUM')",1,,"min, ALBUMIN, SERUM"
+"(('ORD_NUM_VALUE_CORRECTED', 'min'), 'BASE EXCESS')",1,,"min, BASE EXCESS"
+"(('ORD_NUM_VALUE_CORRECTED', 'min'), 'BASOPHILS')",1,,"min, BASOPHILS"
+"(('ORD_NUM_VALUE_CORRECTED', 'min'), 'C-REACTIVE PROTEIN')",1,,"min, C-REACTIVE PROTEIN"
+"(('ORD_NUM_VALUE_CORRECTED', 'min'), 'CHLORIDE, SERUM')",1,,"min, CHLORIDE, SERUM"
+"(('ORD_NUM_VALUE_CORRECTED', 'min'), 'CREATININE, SERUM')",1,,"min, CREATININE, SERUM"
+"(('ORD_NUM_VALUE_CORRECTED', 'min'), 'CSF GLUCOSE')",1,,"min, CSF GLUCOSE"
+"(('ORD_NUM_VALUE_CORRECTED', 'min'), 'CSF LYMPHOCYTE COUNT')",1,,"min, CSF LYMPHOCYTE COUNT"
+"(('ORD_NUM_VALUE_CORRECTED', 'min'), 'CSF MONOCYTE COUNT')",1,,"min, CSF MONOCYTE COUNT"
+"(('ORD_NUM_VALUE_CORRECTED', 'min'), 'CSF PROTEIN')",1,,"min, CSF PROTEIN"
+"(('ORD_NUM_VALUE_CORRECTED', 'min'), 'CSF RBC COUNT')",1,,"min, CSF RBC COUNT"
+"(('ORD_NUM_VALUE_CORRECTED', 'min'), 'CSF TOTAL CELL COUNT')",1,,"min, CSF TOTAL CELL COUNT"
+"(('ORD_NUM_VALUE_CORRECTED', 'min'), 'CSF WBC COUNT')",1,,"min, CSF WBC COUNT"
+"(('ORD_NUM_VALUE_CORRECTED', 'min'), 'EOSINOPHILS')",1,,"min, EOSINOPHILS"
+"(('ORD_NUM_VALUE_CORRECTED', 'min'), 'GLUCOSE, SERUM')",1,,"min, GLUCOSE, SERUM"
+"(('ORD_NUM_VALUE_CORRECTED', 'min'), 'HBA1C')",1,,"min, HBA1C"
+"(('ORD_NUM_VALUE_CORRECTED', 'min'), 'HEMATOCRIT')",1,,"min, HEMATOCRIT"
+"(('ORD_NUM_VALUE_CORRECTED', 'min'), 'HEMOGLOBIN, SERUM')",1,,"min, HEMOGLOBIN, SERUM"
+"(('ORD_NUM_VALUE_CORRECTED', 'min'), 'IMMATURE CELLS')",1,,"min, IMMATURE CELLS"
+"(('ORD_NUM_VALUE_CORRECTED', 'min'), 'INR')",1,,"min, INR"
+"(('ORD_NUM_VALUE_CORRECTED', 'min'), 'LACTATE, BLOOD')",1,,"min, LACTATE, BLOOD"
+"(('ORD_NUM_VALUE_CORRECTED', 'min'), 'LYMPHOCYTES')",1,,"min, LYMPHOCYTES"
+"(('ORD_NUM_VALUE_CORRECTED', 'min'), 'MONOCYTES')",1,,"min, MONOCYTES"
+"(('ORD_NUM_VALUE_CORRECTED', 'min'), 'NEUTROPHILS')",1,,"min, NEUTROPHILS"
+"(('ORD_NUM_VALUE_CORRECTED', 'min'), 'PCO2, BLOOD')",1,,"min, PCO2, BLOOD"
+"(('ORD_NUM_VALUE_CORRECTED', 'min'), 'PH, ARTERIAL')",1,,"min, PH, ARTERIAL"
+"(('ORD_NUM_VALUE_CORRECTED', 'min'), 'PLATELET COUNT')",1,,"min, PLATELET COUNT"
+"(('ORD_NUM_VALUE_CORRECTED', 'min'), 'PO2, BLOOD')",1,,"min, PO2, BLOOD"
+"(('ORD_NUM_VALUE_CORRECTED', 'min'), 'POTASSIUM, SERUM')",1,,"min, POTASSIUM, SERUM"
+"(('ORD_NUM_VALUE_CORRECTED', 'min'), 'SODIUM, SERUM')",1,,"min, SODIUM, SERUM"
+"(('ORD_NUM_VALUE_CORRECTED', 'min'), 'UREA NITROGEN, BLOOD')",1,,"min, UREA NITROGEN, BLOOD"
+"(('ORD_NUM_VALUE_CORRECTED', 'min'), 'WHITE BLOOD CELL COUNT')",1,,"min, WHITE BLOOD CELL COUNT"
+"(('ORD_NUM_VALUE_CORRECTED', 'max'), 'ALBUMIN, SERUM')",1,,"max, ALBUMIN, SERUM"
+"(('ORD_NUM_VALUE_CORRECTED', 'max'), 'BASE EXCESS')",1,,"max, BASE EXCESS"
+"(('ORD_NUM_VALUE_CORRECTED', 'max'), 'BASOPHILS')",1,,"max, BASOPHILS"
+"(('ORD_NUM_VALUE_CORRECTED', 'max'), 'C-REACTIVE PROTEIN')",1,,"max, C-REACTIVE PROTEIN"
+"(('ORD_NUM_VALUE_CORRECTED', 'max'), 'CHLORIDE, SERUM')",1,,"max, CHLORIDE, SERUM"
+"(('ORD_NUM_VALUE_CORRECTED', 'max'), 'CREATININE, SERUM')",1,,"max, CREATININE, SERUM"
+"(('ORD_NUM_VALUE_CORRECTED', 'max'), 'CSF GLUCOSE')",1,,"max, CSF GLUCOSE"
+"(('ORD_NUM_VALUE_CORRECTED', 'max'), 'CSF LYMPHOCYTE COUNT')",1,,"max, CSF LYMPHOCYTE COUNT"
+"(('ORD_NUM_VALUE_CORRECTED', 'max'), 'CSF MONOCYTE COUNT')",1,,"max, CSF MONOCYTE COUNT"
+"(('ORD_NUM_VALUE_CORRECTED', 'max'), 'CSF PROTEIN')",1,,"max, CSF PROTEIN"
+"(('ORD_NUM_VALUE_CORRECTED', 'max'), 'CSF RBC COUNT')",1,,"max, CSF RBC COUNT"
+"(('ORD_NUM_VALUE_CORRECTED', 'max'), 'CSF TOTAL CELL COUNT')",1,,"max, CSF TOTAL CELL COUNT"
+"(('ORD_NUM_VALUE_CORRECTED', 'max'), 'CSF WBC COUNT')",1,,"max, CSF WBC COUNT"
+"(('ORD_NUM_VALUE_CORRECTED', 'max'), 'EOSINOPHILS')",1,,"max, EOSINOPHILS"
+"(('ORD_NUM_VALUE_CORRECTED', 'max'), 'GLUCOSE, SERUM')",1,,"max, GLUCOSE, SERUM"
+"(('ORD_NUM_VALUE_CORRECTED', 'max'), 'HBA1C')",1,,"max, HBA1C"
+"(('ORD_NUM_VALUE_CORRECTED', 'max'), 'HEMATOCRIT')",1,,"max, HEMATOCRIT"
+"(('ORD_NUM_VALUE_CORRECTED', 'max'), 'HEMOGLOBIN, SERUM')",1,,"max, HEMOGLOBIN, SERUM"
+"(('ORD_NUM_VALUE_CORRECTED', 'max'), 'IMMATURE CELLS')",1,,"max, IMMATURE CELLS"
+"(('ORD_NUM_VALUE_CORRECTED', 'max'), 'INR')",1,,"max, INR"
+"(('ORD_NUM_VALUE_CORRECTED', 'max'), 'LACTATE, BLOOD')",1,,"max, LACTATE, BLOOD"
+"(('ORD_NUM_VALUE_CORRECTED', 'max'), 'LYMPHOCYTES')",1,,"max, LYMPHOCYTES"
+"(('ORD_NUM_VALUE_CORRECTED', 'max'), 'MONOCYTES')",1,,"max, MONOCYTES"
+"(('ORD_NUM_VALUE_CORRECTED', 'max'), 'NEUTROPHILS')",1,,"max, NEUTROPHILS"
+"(('ORD_NUM_VALUE_CORRECTED', 'max'), 'PCO2, BLOOD')",1,,"max, PCO2, BLOOD"
+"(('ORD_NUM_VALUE_CORRECTED', 'max'), 'PH, ARTERIAL')",1,,"max, PH, ARTERIAL"
+"(('ORD_NUM_VALUE_CORRECTED', 'max'), 'PLATELET COUNT')",1,,"max, PLATELET COUNT"
+"(('ORD_NUM_VALUE_CORRECTED', 'max'), 'PO2, BLOOD')",1,,"max, PO2, BLOOD"
+"(('ORD_NUM_VALUE_CORRECTED', 'max'), 'POTASSIUM, SERUM')",1,,"max, POTASSIUM, SERUM"
+"(('ORD_NUM_VALUE_CORRECTED', 'max'), 'SODIUM, SERUM')",1,,"max, SODIUM, SERUM"
+"(('ORD_NUM_VALUE_CORRECTED', 'max'), 'UREA NITROGEN, BLOOD')",1,,"max, UREA NITROGEN, BLOOD"
+"(('ORD_NUM_VALUE_CORRECTED', 'max'), 'WHITE BLOOD CELL COUNT')",1,,"max, WHITE BLOOD CELL COUNT"
+"(('ORD_NUM_VALUE_CORRECTED', 'mean'), 'ALBUMIN, SERUM')",1,,"mean, ALBUMIN, SERUM"
+"(('ORD_NUM_VALUE_CORRECTED', 'mean'), 'BASE EXCESS')",1,,"mean, BASE EXCESS"
+"(('ORD_NUM_VALUE_CORRECTED', 'mean'), 'BASOPHILS')",1,,"mean, BASOPHILS"
+"(('ORD_NUM_VALUE_CORRECTED', 'mean'), 'C-REACTIVE PROTEIN')",1,,"mean, C-REACTIVE PROTEIN"
+"(('ORD_NUM_VALUE_CORRECTED', 'mean'), 'CHLORIDE, SERUM')",1,,"mean, CHLORIDE, SERUM"
+"(('ORD_NUM_VALUE_CORRECTED', 'mean'), 'CREATININE, SERUM')",1,,"mean, CREATININE, SERUM"
+"(('ORD_NUM_VALUE_CORRECTED', 'mean'), 'CSF GLUCOSE')",1,,"mean, CSF GLUCOSE"
+"(('ORD_NUM_VALUE_CORRECTED', 'mean'), 'CSF LYMPHOCYTE COUNT')",1,,"mean, CSF LYMPHOCYTE COUNT"
+"(('ORD_NUM_VALUE_CORRECTED', 'mean'), 'CSF MONOCYTE COUNT')",1,,"mean, CSF MONOCYTE COUNT"
+"(('ORD_NUM_VALUE_CORRECTED', 'mean'), 'CSF PROTEIN')",1,,"mean, CSF PROTEIN"
+"(('ORD_NUM_VALUE_CORRECTED', 'mean'), 'CSF RBC COUNT')",1,,"mean, CSF RBC COUNT"
+"(('ORD_NUM_VALUE_CORRECTED', 'mean'), 'CSF TOTAL CELL COUNT')",1,,"mean, CSF TOTAL CELL COUNT"
+"(('ORD_NUM_VALUE_CORRECTED', 'mean'), 'CSF WBC COUNT')",1,,"mean, CSF WBC COUNT"
+"(('ORD_NUM_VALUE_CORRECTED', 'mean'), 'EOSINOPHILS')",1,,"mean, EOSINOPHILS"
+"(('ORD_NUM_VALUE_CORRECTED', 'mean'), 'GLUCOSE, SERUM')",1,,"mean, GLUCOSE, SERUM"
+"(('ORD_NUM_VALUE_CORRECTED', 'mean'), 'HBA1C')",1,,"mean, HBA1C"
+"(('ORD_NUM_VALUE_CORRECTED', 'mean'), 'HEMATOCRIT')",1,,"mean, HEMATOCRIT"
+"(('ORD_NUM_VALUE_CORRECTED', 'mean'), 'HEMOGLOBIN, SERUM')",1,,"mean, HEMOGLOBIN, SERUM"
+"(('ORD_NUM_VALUE_CORRECTED', 'mean'), 'IMMATURE CELLS')",1,,"mean, IMMATURE CELLS"
+"(('ORD_NUM_VALUE_CORRECTED', 'mean'), 'INR')",1,,"mean, INR"
+"(('ORD_NUM_VALUE_CORRECTED', 'mean'), 'LACTATE, BLOOD')",1,,"mean, LACTATE, BLOOD"
+"(('ORD_NUM_VALUE_CORRECTED', 'mean'), 'LYMPHOCYTES')",1,,"mean, LYMPHOCYTES"
+"(('ORD_NUM_VALUE_CORRECTED', 'mean'), 'MONOCYTES')",1,,"mean, MONOCYTES"
+"(('ORD_NUM_VALUE_CORRECTED', 'mean'), 'NEUTROPHILS')",1,,"mean, NEUTROPHILS"
+"(('ORD_NUM_VALUE_CORRECTED', 'mean'), 'PCO2, BLOOD')",1,,"mean, PCO2, BLOOD"
+"(('ORD_NUM_VALUE_CORRECTED', 'mean'), 'PH, ARTERIAL')",1,,"mean, PH, ARTERIAL"
+"(('ORD_NUM_VALUE_CORRECTED', 'mean'), 'PLATELET COUNT')",1,,"mean, PLATELET COUNT"
+"(('ORD_NUM_VALUE_CORRECTED', 'mean'), 'PO2, BLOOD')",1,,"mean, PO2, BLOOD"
+"(('ORD_NUM_VALUE_CORRECTED', 'mean'), 'POTASSIUM, SERUM')",1,,"mean, POTASSIUM, SERUM"
+"(('ORD_NUM_VALUE_CORRECTED', 'mean'), 'SODIUM, SERUM')",1,,"mean, SODIUM, SERUM"
+"(('ORD_NUM_VALUE_CORRECTED', 'mean'), 'UREA NITROGEN, BLOOD')",1,,"mean, UREA NITROGEN, BLOOD"
+"(('ORD_NUM_VALUE_CORRECTED', 'mean'), 'WHITE BLOOD CELL COUNT')",1,,"mean, WHITE BLOOD CELL COUNT"
+"(('ORD_NUM_VALUE_CORRECTED', 'count'), 'ALBUMIN, SERUM')",1,,"count, ALBUMIN, SERUM"
+"(('ORD_NUM_VALUE_CORRECTED', 'count'), 'BASE EXCESS')",1,,"count, BASE EXCESS"
+"(('ORD_NUM_VALUE_CORRECTED', 'count'), 'BASOPHILS')",1,,"count, BASOPHILS"
+"(('ORD_NUM_VALUE_CORRECTED', 'count'), 'C-REACTIVE PROTEIN')",1,,"count, C-REACTIVE PROTEIN"
+"(('ORD_NUM_VALUE_CORRECTED', 'count'), 'CHLORIDE, SERUM')",1,,"count, CHLORIDE, SERUM"
+"(('ORD_NUM_VALUE_CORRECTED', 'count'), 'CREATININE, SERUM')",1,,"count, CREATININE, SERUM"
+"(('ORD_NUM_VALUE_CORRECTED', 'count'), 'CSF GLUCOSE')",1,,"count, CSF GLUCOSE"
+"(('ORD_NUM_VALUE_CORRECTED', 'count'), 'CSF LYMPHOCYTE COUNT')",1,,"count, CSF LYMPHOCYTE COUNT"
+"(('ORD_NUM_VALUE_CORRECTED', 'count'), 'CSF MONOCYTE COUNT')",1,,"count, CSF MONOCYTE COUNT"
+"(('ORD_NUM_VALUE_CORRECTED', 'count'), 'CSF PROTEIN')",1,,"count, CSF PROTEIN"
+"(('ORD_NUM_VALUE_CORRECTED', 'count'), 'CSF RBC COUNT')",1,,"count, CSF RBC COUNT"
+"(('ORD_NUM_VALUE_CORRECTED', 'count'), 'CSF TOTAL CELL COUNT')",1,,"count, CSF TOTAL CELL COUNT"
+"(('ORD_NUM_VALUE_CORRECTED', 'count'), 'CSF WBC COUNT')",1,,"count, CSF WBC COUNT"
+"(('ORD_NUM_VALUE_CORRECTED', 'count'), 'EOSINOPHILS')",1,,"count, EOSINOPHILS"
+"(('ORD_NUM_VALUE_CORRECTED', 'count'), 'GLUCOSE, SERUM')",1,,"count, GLUCOSE, SERUM"
+"(('ORD_NUM_VALUE_CORRECTED', 'count'), 'HBA1C')",1,,"count, HBA1C"
+"(('ORD_NUM_VALUE_CORRECTED', 'count'), 'HEMATOCRIT')",1,,"count, HEMATOCRIT"
+"(('ORD_NUM_VALUE_CORRECTED', 'count'), 'HEMOGLOBIN, SERUM')",1,,"count, HEMOGLOBIN, SERUM"
+"(('ORD_NUM_VALUE_CORRECTED', 'count'), 'IMMATURE CELLS')",1,,"count, IMMATURE CELLS"
+"(('ORD_NUM_VALUE_CORRECTED', 'count'), 'INR')",1,,"count, INR"
+"(('ORD_NUM_VALUE_CORRECTED', 'count'), 'LACTATE, BLOOD')",1,,"count, LACTATE, BLOOD"
+"(('ORD_NUM_VALUE_CORRECTED', 'count'), 'LYMPHOCYTES')",1,,"count, LYMPHOCYTES"
+"(('ORD_NUM_VALUE_CORRECTED', 'count'), 'MONOCYTES')",1,,"count, MONOCYTES"
+"(('ORD_NUM_VALUE_CORRECTED', 'count'), 'NEUTROPHILS')",1,,"count, NEUTROPHILS"
+"(('ORD_NUM_VALUE_CORRECTED', 'count'), 'PCO2, BLOOD')",1,,"count, PCO2, BLOOD"
+"(('ORD_NUM_VALUE_CORRECTED', 'count'), 'PH, ARTERIAL')",1,,"count, PH, ARTERIAL"
+"(('ORD_NUM_VALUE_CORRECTED', 'count'), 'PLATELET COUNT')",1,,"count, PLATELET COUNT"
+"(('ORD_NUM_VALUE_CORRECTED', 'count'), 'PO2, BLOOD')",1,,"count, PO2, BLOOD"
+"(('ORD_NUM_VALUE_CORRECTED', 'count'), 'POTASSIUM, SERUM')",1,,"count, POTASSIUM, SERUM"
+"(('ORD_NUM_VALUE_CORRECTED', 'count'), 'SODIUM, SERUM')",1,,"count, SODIUM, SERUM"
+"(('ORD_NUM_VALUE_CORRECTED', 'count'), 'UREA NITROGEN, BLOOD')",1,,"count, UREA NITROGEN, BLOOD"
+"(('ORD_NUM_VALUE_CORRECTED', 'count'), 'WHITE BLOOD CELL COUNT')",1,,"count, WHITE BLOOD CELL COUNT"
+BMI,1,,BMI
+AGE_LT90,1,,AGE
+SEX,1,,SEX
+ETHNICITY,1,,ETHNICITY
+RACE,1,,RACE
+"(('MAP', 'q0.05'), 'ARTERIAL BLOOD PRESSURE')",1,,"MAP, percentile = 0.05, ARTERIAL BLOOD PRESSURE"
+"(('MAP', 'q0.05'), 'BLOOD PRESSURE')",1,,"MAP, percentile = 0.05, BLOOD PRESSURE"
+"(('MAP', 'q0.10'), 'ARTERIAL BLOOD PRESSURE')",1,,"MAP, percentile = 0.10, ARTERIAL BLOOD PRESSURE"
+"(('MAP', 'q0.10'), 'BLOOD PRESSURE')",1,,"MAP, percentile = 0.10, BLOOD PRESSURE"
+"(('MAP', 'q0.15'), 'ARTERIAL BLOOD PRESSURE')",1,,"MAP, percentile = 0.15, ARTERIAL BLOOD PRESSURE"
+"(('MAP', 'q0.15'), 'BLOOD PRESSURE')",1,,"MAP, percentile = 0.15, BLOOD PRESSURE"
+"(('MAP', 'q0.20'), 'ARTERIAL BLOOD PRESSURE')",1,,"MAP, percentile = 0.20, ARTERIAL BLOOD PRESSURE"
+"(('MAP', 'q0.20'), 'BLOOD PRESSURE')",1,,"MAP, percentile = 0.20, BLOOD PRESSURE"
+"(('MAP', 'q0.25'), 'ARTERIAL BLOOD PRESSURE')",1,,"MAP, percentile = 0.25, ARTERIAL BLOOD PRESSURE"
+"(('MAP', 'q0.25'), 'BLOOD PRESSURE')",1,,"MAP, percentile = 0.25, BLOOD PRESSURE"
+"(('MAP', 'q0.30'), 'ARTERIAL BLOOD PRESSURE')",1,,"MAP, percentile = 0.30, ARTERIAL BLOOD PRESSURE"
+"(('MAP', 'q0.30'), 'BLOOD PRESSURE')",1,,"MAP, percentile = 0.30, BLOOD PRESSURE"
+"(('MAP', 'q0.35'), 'ARTERIAL BLOOD PRESSURE')",1,,"MAP, percentile = 0.35, ARTERIAL BLOOD PRESSURE"
+"(('MAP', 'q0.35'), 'BLOOD PRESSURE')",1,,"MAP, percentile = 0.35, BLOOD PRESSURE"
+"(('MAP', 'q0.40'), 'ARTERIAL BLOOD PRESSURE')",1,,"MAP, percentile = 0.40, ARTERIAL BLOOD PRESSURE"
+"(('MAP', 'q0.40'), 'BLOOD PRESSURE')",1,,"MAP, percentile = 0.40, BLOOD PRESSURE"
+"(('MAP', 'q0.45'), 'ARTERIAL BLOOD PRESSURE')",1,,"MAP, percentile = 0.45, ARTERIAL BLOOD PRESSURE"
+"(('MAP', 'q0.45'), 'BLOOD PRESSURE')",1,,"MAP, percentile = 0.45, BLOOD PRESSURE"
+"(('MAP', 'q0.50'), 'ARTERIAL BLOOD PRESSURE')",1,,"MAP, percentile = 0.50, ARTERIAL BLOOD PRESSURE"
+"(('MAP', 'q0.50'), 'BLOOD PRESSURE')",1,,"MAP, percentile = 0.50, BLOOD PRESSURE"
+"(('MAP', 'q0.55'), 'ARTERIAL BLOOD PRESSURE')",1,,"MAP, percentile = 0.55, ARTERIAL BLOOD PRESSURE"
+"(('MAP', 'q0.55'), 'BLOOD PRESSURE')",1,,"MAP, percentile = 0.55, BLOOD PRESSURE"
+"(('MAP', 'q0.60'), 'ARTERIAL BLOOD PRESSURE')",1,,"MAP, percentile = 0.60, ARTERIAL BLOOD PRESSURE"
+"(('MAP', 'q0.60'), 'BLOOD PRESSURE')",1,,"MAP, percentile = 0.60, BLOOD PRESSURE"
+"(('MAP', 'q0.65'), 'ARTERIAL BLOOD PRESSURE')",1,,"MAP, percentile = 0.65, ARTERIAL BLOOD PRESSURE"
+"(('MAP', 'q0.65'), 'BLOOD PRESSURE')",1,,"MAP, percentile = 0.65, BLOOD PRESSURE"
+"(('MAP', 'q0.70'), 'ARTERIAL BLOOD PRESSURE')",1,,"MAP, percentile = 0.70, ARTERIAL BLOOD PRESSURE"
+"(('MAP', 'q0.70'), 'BLOOD PRESSURE')",1,,"MAP, percentile = 0.70, BLOOD PRESSURE"
+"(('MAP', 'q0.75'), 'ARTERIAL BLOOD PRESSURE')",1,,"MAP, percentile = 0.75, ARTERIAL BLOOD PRESSURE"
+"(('MAP', 'q0.75'), 'BLOOD PRESSURE')",1,,"MAP, percentile = 0.75, BLOOD PRESSURE"
+"(('MAP', 'q0.80'), 'ARTERIAL BLOOD PRESSURE')",1,,"MAP, percentile = 0.80, ARTERIAL BLOOD PRESSURE"
+"(('MAP', 'q0.80'), 'BLOOD PRESSURE')",1,,"MAP, percentile = 0.80, BLOOD PRESSURE"
+"(('MAP', 'q0.85'), 'ARTERIAL BLOOD PRESSURE')",1,,"MAP, percentile = 0.85, ARTERIAL BLOOD PRESSURE"
+"(('MAP', 'q0.85'), 'BLOOD PRESSURE')",1,,"MAP, percentile = 0.85, BLOOD PRESSURE"
+"(('MAP', 'q0.90'), 'ARTERIAL BLOOD PRESSURE')",1,,"MAP, percentile = 0.90, ARTERIAL BLOOD PRESSURE"
+"(('MAP', 'q0.90'), 'BLOOD PRESSURE')",1,,"MAP, percentile = 0.90, BLOOD PRESSURE"
+"(('MAP', 'q0.95'), 'ARTERIAL BLOOD PRESSURE')",1,,"MAP, percentile = 0.95, ARTERIAL BLOOD PRESSURE"
+"(('MAP', 'q0.95'), 'BLOOD PRESSURE')",1,,"MAP, percentile = 0.95, BLOOD PRESSURE"
+"(('MAP', 'q1.00'), 'ARTERIAL BLOOD PRESSURE')",1,,"MAP, percentile = 1.00, ARTERIAL BLOOD PRESSURE"
+"(('MAP', 'q1.00'), 'BLOOD PRESSURE')",1,,"MAP, percentile = 1.00, BLOOD PRESSURE"
+"(('MAP', 'count'), 'ARTERIAL BLOOD PRESSURE')",1,,"MAP, count, ARTERIAL BLOOD PRESSURE"
+"(('MAP', 'count'), 'BLOOD PRESSURE')",1,,"MAP, count, BLOOD PRESSURE"
+"('ICP_MEAS_VALUE', 'q0.05')",1,,ICP percentile = 0.05
+"('ICP_MEAS_VALUE', 'q0.10')",1,,ICP percentile = 0.10
+"('ICP_MEAS_VALUE', 'q0.15')",1,,ICP percentile = 0.15
+"('ICP_MEAS_VALUE', 'q0.20')",1,,ICP percentile = 0.20
+"('ICP_MEAS_VALUE', 'q0.25')",1,,ICP percentile = 0.25
+"('ICP_MEAS_VALUE', 'q0.30')",1,,ICP percentile = 0.30
+"('ICP_MEAS_VALUE', 'q0.35')",1,,ICP percentile = 0.35
+"('ICP_MEAS_VALUE', 'q0.40')",1,,ICP percentile = 0.40
+"('ICP_MEAS_VALUE', 'q0.45')",1,,ICP percentile = 0.45
+"('ICP_MEAS_VALUE', 'q0.50')",1,,ICP percentile = 0.50
+"('ICP_MEAS_VALUE', 'q0.55')",1,,ICP percentile = 0.55
+"('ICP_MEAS_VALUE', 'q0.60')",1,,ICP percentile = 0.60
+"('ICP_MEAS_VALUE', 'q0.65')",1,,ICP percentile = 0.65
+"('ICP_MEAS_VALUE', 'q0.70')",1,,ICP percentile = 0.70
+"('ICP_MEAS_VALUE', 'q0.75')",1,,ICP percentile = 0.75
+"('ICP_MEAS_VALUE', 'q0.80')",1,,ICP percentile = 0.80
+"('ICP_MEAS_VALUE', 'q0.85')",1,,ICP percentile = 0.85
+"('ICP_MEAS_VALUE', 'q0.90')",1,,ICP percentile = 0.90
+"('ICP_MEAS_VALUE', 'q0.95')",1,,ICP percentile = 0.95
+"('ICP_MEAS_VALUE', 'q1.00')",1,,ICP percentile = 1.00
+"('ICP_MEAS_VALUE', 'count')",,1,ICP count
+"('MEAS_VALUE', 'Blood Admin')_x",,1, Blood Admin  count
+"('MEAS_VALUE', 'Blood Loss')_x",1,, Blood Loss  count
+"('MEAS_VALUE', 'CEREBRAL SATURATION')_x",1,, CEREBRAL SATURATION  count
+"('MEAS_VALUE', 'EMESIS')_x",,1, EMESIS  count
+"('MEAS_VALUE', 'IV Fluids')_x",1,, IV Fluids  count
+"('MEAS_VALUE', 'Mechanical Ventilation')_x",1,, Mechanical Ventilation  count
+"('MEAS_VALUE', 'NITRIC OXIDE')_x",1,, NITRIC OXIDE  count
+"('MEAS_VALUE', 'PULSE')_x",1,, PULSE  count
+"('MEAS_VALUE', 'PULSE OXIMETRY')_x",1,, PULSE OXIMETRY  count
+"('MEAS_VALUE', 'RESPIRATIONS')_x",1,, RESPIRATIONS  count
+"('MEAS_VALUE', 'Supplemental ETCO2')_x",,, Supplemental ETCO2  count
+"('MEAS_VALUE', 'Supplemental FIO2')_x",,, Supplemental FIO2  count
+"('MEAS_VALUE', 'Supplemental O2')_x",,, Supplemental O2  count
+"('MEAS_VALUE', 'TUBE FEEDING')_x",1,, TUBE FEEDING  count
+"('MEAS_VALUE', 'URINE OUTPUT')_x",1,, URINE OUTPUT  count
+"('MEAS_VALUE', 'Blood Admin')_y",,1, Blood Admin was measured true/false
+"('MEAS_VALUE', 'Blood Loss')_y",1,, Blood Loss was measured true/false
+"('MEAS_VALUE', 'CEREBRAL SATURATION')_y",1,, CEREBRAL SATURATION was measured true/false
+"('MEAS_VALUE', 'EMESIS')_y",,1, EMESIS was measured true/false
+"('MEAS_VALUE', 'ICP')_y",1,, ICP was measured true/false
+"('MEAS_VALUE', 'IV Fluids')_y",1,, IV Fluids was measured true/false
+"('MEAS_VALUE', 'Mechanical Ventilation')_y",1,, Mechanical Ventilation was measured true/false
+"('MEAS_VALUE', 'NITRIC OXIDE')_y",1,, NITRIC OXIDE was measured true/false
+"('MEAS_VALUE', 'PULSE')_y",1,, PULSE was measured true/false
+"('MEAS_VALUE', 'PULSE OXIMETRY')_y",1,, PULSE OXIMETRY was measured true/false
+"('MEAS_VALUE', 'RESPIRATIONS')_y",1,, RESPIRATIONS was measured true/false
+"('MEAS_VALUE', 'Supplemental ETCO2')_y",,, Supplemental ETCO2 was measured true/false
+"('MEAS_VALUE', 'Supplemental FIO2')_y",,, Supplemental FIO2 was measured true/false
+"('MEAS_VALUE', 'Supplemental O2')_y",,, Supplemental O2 was measured true/false
+"('MEAS_VALUE', 'TUBE FEEDING')_y",1,, TUBE FEEDING was measured true/false
+"('MEAS_VALUE', 'URINE OUTPUT')_y",1,, URINE OUTPUT was measured true/false
